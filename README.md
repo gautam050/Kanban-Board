@@ -16,7 +16,7 @@ Designed as a frontend developer assessment project to demonstrate architecture,
 ## 📦 GitHub Repository
 
 👉 Add your repo link here  
-`https://github.com/yourusername/kanban-board`
+`https://github.com/gautam050/Kanban-Board`
 
 ---
 
