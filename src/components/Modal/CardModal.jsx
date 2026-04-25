@@ -3,7 +3,7 @@ import { useDispatch, useSelector, shallowEqual } from 'react-redux';
 import { useEditor, EditorContent } from '@tiptap/react';
 import StarterKit from '@tiptap/starter-kit';
 import { actions } from '../../store/boardSlice';
-
+import React from 'react';
 const allLabels = ['bug', 'urgent', 'feature', 'frontend', 'api', 'accessibility'];
 
 export function CardModal() {

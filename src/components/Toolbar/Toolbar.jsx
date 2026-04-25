@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { actions, retryFailedSave } from '../../store/boardSlice';
-
+import React from 'react';
 const allLabels = ['bug', 'urgent', 'feature', 'frontend', 'api', 'accessibility'];
 
 export function Toolbar() {

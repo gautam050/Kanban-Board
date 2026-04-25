@@ -3,7 +3,7 @@ import { useDispatch, useSelector, shallowEqual } from 'react-redux';
 import { actions, moveCardOptimistic } from '../../store/boardSlice';
 import { getDropIndex } from '../../utils/boardLogic';
 import { KanbanCard } from '../Card/KanbanCard';
-
+import React from 'react';
 const ITEM_HEIGHT = 170;
 const BUFFER = 6;
 

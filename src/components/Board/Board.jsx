@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { useDebounce } from '../../hooks/useDebounce';
 import { actions, simulateRemoteMove } from '../../store/boardSlice';
 import { Column } from './Column';
-
+import React from 'react';
 export function Board() {
   const dispatch = useDispatch();
   const search = useSelector((s) => s.board.search);
