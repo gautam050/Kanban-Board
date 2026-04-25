@@ -9,7 +9,7 @@ Designed as a frontend developer assessment project to demonstrate architecture,
 ## 🔗 Live Demo
 
 👉 Add your deployed link here  
-`https://your-kanban-board.vercel.app`
+`https://kanbanboard101.netlify.app/`
 
 ---
 
