@@ -9,14 +9,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "latest",
-    "vite": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "@reduxjs/toolkit": "latest",
-    "react-redux": "latest",
-    "@tiptap/react": "latest",
-    "@tiptap/starter-kit": "latest"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@reduxjs/toolkit": "^2.2.5",
+    "react-redux": "^9.1.2",
+    "@tiptap/react": "^2.4.0",
+    "@tiptap/starter-kit": "^2.4.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "vite": "^5.4.8",
+    "@vitejs/plugin-react": "^4.3.1"
+  }
 }
